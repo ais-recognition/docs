@@ -14,8 +14,8 @@ This implementation is set in a scenario where:
 - Specifically we use iOS as the client to send voice message and implement a python program to mock the microwave oven.
 - It is clearly not limited in this setting, however, easy to be applied to other settings of IoT.
 
-API
----
+Administrative API
+------------------
 
 ### Speakers List
 
@@ -79,6 +79,7 @@ add one speaker
 ```json
 
 {
+
 }
 
 ```
